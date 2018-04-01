@@ -1,7 +1,7 @@
 # PHYS-Lab
-relationship between the rotational acceleration of a solid disk and the translational acceleration of a falling mass
+ The relationship between the rotational acceleration of a solid disk and the translational acceleration of a falling mass
  Abstract:
-We are creating an experiment to test how angular acceleration can be calculated. By using the appropriate tool we collect data about angular acceleration of a system and compare data we found to the theoretical value that we calculated. After that we do an error analyze of the experiment and come up with a conclusion.
+We are creating an experiment to test how angular acceleration can be calculated. By using the appropriate tool we collect data about angular acceleration of a system and compare data we found to the theoretical value that we calculated. After that, we do an error analysis of the experiment and come up with a conclusion.
 Hypothesis:
 We should be able to calculate the value of angular acceleration by getting the data about our model.
 
@@ -12,7 +12,7 @@ F = m g – T = m a
 
 
  
-after we put those equations together and then simplify it ,we got : 
+after we put those equations together and then simplify it, we got : 
 
 
 
@@ -33,7 +33,7 @@ Equipments :
 
 
 
-At first ,we measure the radius of the bigger spool ,the smaller spool and the disk .Secondly ,we tie one side of string with the smaller spool and another side  the 50g mass hanger .Thirdly ,we put the motion sensor directly downward of the mass hanger .Then,we rotate the disk anti-clockwise to make the mass in position where it is going to be dropped.Last ,we drop the mass hanger. We repeat this experiment 25 times and we collect the data every time.
+At first, we measure the radius of the bigger spool ,the smaller spool, and the disk. Secondly, we tie one side of string with the smaller spool and another side  the 50g mass hanger. Thirdly, we put the motion sensor directly downward of the mass hanger. Then, we rotate the disk anti-clockwise to make the mass in a position where it is going to be dropped. Last ,we drop the mass hanger. We repeat this experiment 25 times and we collect the data every time.
 M disk
 0.1067
 r disk
@@ -135,8 +135,8 @@ For the transitional motion, the theoretical acceleration (i.e. 1.012982141) was
 Even in this error the equation of the relation between the transitional acceleration and angular acceleration still hold authenticity.
 A=α  R
 Where, 
-A is Transitional acceleration
-α is angular acceleration
+A is the Transitional acceleration
+α is the angular acceleration
 R is radius 
 
 
